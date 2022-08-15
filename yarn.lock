@@ -2436,7 +2436,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/builder-webpack5@npm:latest":
+"@storybook/builder-webpack5@npm:6.5.10":
   version: 6.5.10
   resolution: "@storybook/builder-webpack5@npm:6.5.10"
   dependencies:
@@ -2892,7 +2892,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/manager-webpack5@npm:latest":
+"@storybook/manager-webpack5@npm:6.5.10":
   version: 6.5.10
   resolution: "@storybook/manager-webpack5@npm:6.5.10"
   dependencies:
@@ -11522,9 +11522,9 @@ __metadata:
     "@storybook/addon-interactions": ^6.5.10
     "@storybook/addon-links": ^6.5.10
     "@storybook/builder-webpack4": ^6.5.10
-    "@storybook/builder-webpack5": latest
+    "@storybook/builder-webpack5": 6.5.10
     "@storybook/manager-webpack4": ^6.5.10
-    "@storybook/manager-webpack5": latest
+    "@storybook/manager-webpack5": 6.5.10
     "@storybook/react": ^6.5.10
     "@storybook/testing-library": ^0.0.13
     babel-loader: ^8.2.5
